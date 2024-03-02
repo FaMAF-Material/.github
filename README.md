@@ -27,4 +27,11 @@ Para la clonación recursiva
 ```bash
 git clone --recursive <URL_del_repositorio_principal>
 ```
+## Materias
 
+- [Álgebra Lineal](https://github.com/FaMAF-Material/Algebra-Lineal-Algebra-2)
+- [Análisis Numérico 1](https://github.com/FaMAF-Material/Analisis-Numerico-1)
+- [Física 1](https://github.com/FaMAF-Material/Fisica-1)
+- [Organización del Computador](https://github.com/FaMAF-Material/Organizacion-del-Computador)
+- [Algoritmos y Estructuras de Datos 1](https://github.com/FaMAF-Material/Algoritmos-y-Estructuras-de-Datos-1)
+- [Algoritmos y Estructuras de Datos 2](https://github.com/FaMAF-Material/Algoritmos-y-Estructuras-de-Datos-2)
