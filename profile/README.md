@@ -29,6 +29,8 @@ git clone --recursive <URL_del_repositorio_principal>
 ```
 ## Materias
 
+En cada repositorio de materia encontrarás el material de la cursada, como guías de trabajos prácticos, teóricos, exámenes y a parte todos los apuntes y notas de clases que se fueron tomando.
+
 - [Álgebra Lineal](https://github.com/FaMAF-Material/Algebra-Lineal-Algebra-2)
 - [Análisis Numérico 1](https://github.com/FaMAF-Material/Analisis-Numerico-1)
 - [Física 1](https://github.com/FaMAF-Material/Fisica-1)
@@ -37,10 +39,12 @@ git clone --recursive <URL_del_repositorio_principal>
 - [Algoritmos y Estructuras de Datos 2](https://github.com/FaMAF-Material/Algoritmos-y-Estructuras-de-Datos-2)
 
 ## Cursos
+En cada repositorio de curso encontrarás el material del curso, como libros, notas, clases.
 
 - [Redes Neuronales con Python](https://github.com/FaMAF-Material/Redes-Neuronales-con-Python)
 
 ## Libros y material bibliográfico
+En cada repositorio de libro encontrarás el material bibliográfico de la materia, simplemente archivos PDF.
 
 - [Álgebra Lineal](https://github.com/FaMAF-Material/Libros-Algebra)
 - [Análisis Matemático](https://github.com/FaMAF-Material/Libros-Analisis-Matematico)
