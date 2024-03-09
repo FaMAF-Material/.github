@@ -38,7 +38,7 @@ En cada repositorio de materia encontrarás el material de la cursada, como guí
 - [Algoritmos y Estructuras de Datos 1](https://github.com/FaMAF-Material/Algoritmos-y-Estructuras-de-Datos-1)
 - [Algoritmos y Estructuras de Datos 2](https://github.com/FaMAF-Material/Algoritmos-y-Estructuras-de-Datos-2)
 
-**No todos los repositorios son públicos** En caso de necesitar unirse para el uso del material solicitarlo al mail.
+**No todos los repositorios son públicos**. En caso de necesitar unirse para el uso y colaboración con el material solicitarlo al mail.
 
 ## Cursos
 En cada repositorio de curso encontrarás el material del curso, como libros, notas, clases.
